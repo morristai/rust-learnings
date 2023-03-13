@@ -1,0 +1,6 @@
+[submodule "submodules/rust-learnings"]
+	path = submodules/rust-learnings
+	url = https://github.com/WhoisDavid/rust-learnings.git
+[submodule "submodules/proc-macro-workshop"]
+	path = submodules/proc-macro-workshop
+	url = https://github.com/dtolnay/proc-macro-workshop.git
